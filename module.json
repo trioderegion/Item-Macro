@@ -16,7 +16,8 @@
 			"path" : "lang/en.json"
 		}
 	],
-	"url" : "https://github.com/Kekilla0/Item-Macro",
-	"manifest" : "https://github.com/Kekilla0/Item-Macro/raw/master/module.json",
-	"download" : "https://github.com/Kekilla0/Item-Macro/archive/v1.3.2.zip"
+	"url" : "https://github.com/trioderegion/Item-Macro",
+    "manifest": "https://raw.githubusercontent.com/trioderegion/Item-Macro/master/module.json",
+    "download": "https://github.com/trioderegion/Item-Macro/raw/master/Item-Macro.zip"
+
 }
