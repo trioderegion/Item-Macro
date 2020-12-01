@@ -43,7 +43,7 @@ class ItemMacro extends MacroConfig
     }    
     static _initHook(app,html,data)
     {
-        if(game.user.isGM){
+      //if(game.user.isGM){ //disabling this to open up to users
             let openButton = $(`<a class="open-itemacro" title="itemacro"><i class="fas fa-sd-card"></i>Item Macro</a>`);
             openButton.click( event => {
                 let Macro = null;
@@ -62,7 +62,7 @@ class ItemMacro extends MacroConfig
             openButton.insertAfter(titleElement);
 
             
-        }
+      //}
     }
 }
 async function setMacro(item, command)
