@@ -1,3 +1,8 @@
+This is an extremely simple modification of Item Macro to allow all users to access this functionality. Play. Nice.
+
+Original ReadMe follows.
+____
+
 # Item Macro
 This is a FoundryVTT module for the 5e (as of now) system. It allows the GM to save macros in items and the players to execute them in various ways. The macros can be executed by enabling either of the two hooks in the settings (Hotbar and CharacterSheet) or by executing them by the TokenBar Module (https://github.com/Kekilla0/TokenBar) and Token Action HUD Module (https://github.com/espositos/fvtt-tokenactionhud)
 
